@@ -1,0 +1,11 @@
+.fb-share-counter{
+	text-align: center;
+	border: 1px solid black;
+	width: 55px;
+	height: 30px;
+	margin-lef: 3px;
+}
+
+.fb-share-counter div{
+	text-align: center;
+}
